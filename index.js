@@ -45,4 +45,4 @@ console.log(message.author.id);
 
 });
 
-disco.login(config.token);
+disco.login(process.env.token);

@@ -1,0 +1,7 @@
+{
+    "token" : process.env.token,
+    "ms" : 1500,
+    "roleToDisco" : ["Membres"],
+    "prefix" : ".",
+    "allowedUsers" : ["228954901579956224"]
+}

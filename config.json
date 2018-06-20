@@ -1,6 +1,6 @@
 {
     "ms" : 1500,
-    "roleToDisco" : ["Membres"],
+    "roleToDisco" : ["Pour gerer le serveur"],
     "prefix" : ".",
     "allowedUsers" : ["228954901579956224"]
 }
